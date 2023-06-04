@@ -136,7 +136,7 @@ li {
   }
 }
 
-.main-text {
+.m-text {
   font-size: 36px;
   font-family: 'Roboto';
   padding-top: 25px;
@@ -144,16 +144,23 @@ li {
 }
 
 @media (max-width: 1024px) {
-  .main-text {
+  .m-text {
     padding-left: 110px;
   }
 }
 
 .img {
+  width: 767px;
+  height: 767px;
   padding-top: 117px;
   padding-bottom: 116px;
   padding-right: 182px;
   
+}
+
+.section-my-project-work-img{
+  width: 760px;
+  height: 516px;
 }
 
 @media (max-width: 1024px) {
