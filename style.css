@@ -46,6 +46,7 @@ li {
   color: white;
   display: flex;
   justify-content: space-between;
+  padding-bottom: 250px;
 }
 
 @media (max-width: 1024px) {
